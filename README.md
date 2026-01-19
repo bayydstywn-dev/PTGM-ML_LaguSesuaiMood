@@ -75,5 +75,44 @@ Sebagai contoh, lagu dengan nilai valence dan energy yang tinggi cenderung dipre
 ---
 
 ## 🗂️ Struktur Proyek
+.
+├── SpotifyAudioFeatures.csv
+├── song_mood_classification.ipynb
+├── README.md
+
+---
+
+## 🚀 Cara Menjalankan Proyek
+1. Clone repository ini
+2. Buka file notebook menggunakan Google Colab atau Jupyter Notebook
+3. Upload file dataset (`SpotifyAudioFeatures.csv`)
+4. Jalankan setiap cell secara berurutan
+
+---
+
+## 📚 Teknologi yang Digunakan
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Google Colab / Jupyter Notebook  
+
+---
+
+## 📝 Catatan
+- Label mood dibuat menggunakan aturan sederhana berbasis fitur audio  
+- Proyek ini **tidak digunakan untuk keperluan komersial**  
+- Proyek ini bertujuan untuk pembelajaran Machine Learning dasar  
+
+---
+
+## 👤 Penulis
+**Bayu Adi Setyawan**
+
+---
+
+## 📄 Lisensi
+Proyek ini dibuat untuk keperluan pendidikan dan pembelajaran.
+
 
 
